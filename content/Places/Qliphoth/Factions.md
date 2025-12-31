@@ -4,7 +4,7 @@
 
 # The Guild of Aldebrand
 
-The main regulators around Aletav and the exploration of Qliphoth. Adventurers must sign up to this guild in order to start exploring the dungeon.
+The main regulators around [[Aletav]] and the exploration of [[Qliphoth (Dungeon)|Qliphoth]]. Adventurers must sign up to this guild in order to start exploring the dungeon.
 
 ## Departments
 
