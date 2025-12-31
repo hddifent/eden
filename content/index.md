@@ -6,7 +6,7 @@ description: Some things are meant to be left undiscovered…
 
 # Places
 
-[[Places/Qliphoth/index|Qliphoth]]
+[[Qliphoth (Overview)|Qliphoth]]
 
 # Beliefs
 
