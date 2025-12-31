@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Eden",
-    pageTitleSuffix: " | Something are meant to be left undiscovered...",
+    pageTitleSuffix: " | Homebrew D&D",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

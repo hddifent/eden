@@ -1,5 +1,15 @@
 ---
 title: Eden
-description: Something are meant to be left undiscovered…
+description: Some things are meant to be left undiscovered…
 ---
-This is a test homepage.
+> Some things are meant to be left undiscovered…
+
+# Places
+
+# Beliefs
+
+# Systems
+
+# Campaigns
+
+# Credits and Attributions
