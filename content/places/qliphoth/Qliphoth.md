@@ -28,14 +28,14 @@ The town is visited by various people, aspiring adventurers seeking new dungeons
 	- Orphanage
 
 > **See also**:
-> [Aletav](https://www.notion.so/Aletav-24a318388a8880a2a739eeee8e67b62e?pvs=21)
+> [[Aletav]]
 
 ---
 
 # Factions
 
 > **Main page**:
-> [Factions](https://www.notion.so/Factions-244318388a888054b4dbccfd0e25269a?pvs=21)
+> [[Factions]]
 
 - **The Guild of Aldebrand** — Responsible for assisting and grading adventurers, issuing permits for deep explorations and extractions, town keeping, and managing town requests.
 	- **The Sephiroth** — An academia that indexes every known information about Qliphoth; monsters, minerals, expedition histories, and various guild records. The Record Hall holds most of their archives and books. However, due to expedition fatigue and recent hurdles, the members have become lazy.
@@ -50,7 +50,7 @@ The town is visited by various people, aspiring adventurers seeking new dungeons
 # Non-Player Characters
 
 > **Main page**:
-> [Non-Player Characters](https://www.notion.so/Non-Player-Characters-24a318388a8880d7aff0f00fdcbc707e?pvs=21)
+> [[Non-Player Characters]]
 
 - **Maeva (F, High Elf, 264)** — A guild receptionist at Aldebrand’s HQ. Appears to be kind-hearted and patient. However, some adventurers’ arrogance, ego, and sheer stupidity do hit her nerves. She never shows her frustrations during work or when anyone asks about it. But, she secretly wishes to get another job.
 - **Erfan (M, Half-Elf, 21)** — A librarian and a record keeper at the Record Hall. Seemingly the only person who takes his job seriously… Too seriously. Has unnerving memories. He remembers where all the records are kept and can even recite parts of the archive word for word.
@@ -64,6 +64,6 @@ The town is visited by various people, aspiring adventurers seeking new dungeons
 # Known Layers
 
 > **Main page**:
-> [Qliphoth (Dungeon)](https://www.notion.so/Qliphoth-Dungeon-24a318388a8880409256ea57ae2cd051?pvs=21)
+> [[Qliphoth (Dungeon)]]
 
 ???

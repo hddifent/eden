@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "hddifent.github.io/eden/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "!(*.md)"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
