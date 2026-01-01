@@ -1,3 +1,3 @@
 ---
-title: "Qliphoth: Locations"
+title: Locations
 ---
