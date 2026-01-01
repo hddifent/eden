@@ -1,7 +1,3 @@
-> The seemingly bottomless dungeon that emerged out of nowhere hundreds of years ago. Nowadays, there’s a whole town around it. Guilds, smithy, inn, etc.
-
-# Overview
-
 At the center of the East Coast of Eden exists **Qliphoth**, the rumored forever dungeon that is believed to hold unspeakable dangers and lifetime riches. No one knows how or when the dungeon comes into existence. Most speculations point to the evil at Eden’s core, forming the endless pit of sins.
 
 Early in its days, a small settlement was formed on the perimeter of Qliphoth, consisted of aspiring adventurers. As exploration goes on, words spread on its unusual depth, eventually rumored to be bottomless. Discoveries of unusual minerals and ores also attracts merchants and potential investors, forming a small mine on its surface. Eventually, more people start to move in, constructions of houses begin, forming a small town — **[[Aletav]]**. Nowadays, the town is full of various establishments, but in the middle of it all still exists the reason of this never-meant-to-be place.
@@ -17,12 +13,12 @@ The town is visited by various people, aspiring adventurers seeking new dungeons
 
 - **[[Qliphoth (Dungeon)|Qliphoth]]** — The “endless” dungeon, theorized to emerged from the core of Eden.
 - **[[Aletav]]** — The town built around the perimeter of Qliphoth. Mostly occupied by humans, elves, and halflings.
-	- **The Guild of Aldebrand’s HQ** — A place for adventurers to accept quests, find parties, and grade themselves for a dungeon permit. Also the main office for [[Factions#The Sephiroth|The Sephiroth]], [[Factions#Search and Expedition Associates|S.E.A]], and [[Factions#B.C. Scientia|B.C. Scientia]].
+	- **[[The Guild of Aldebrand]]’s HQ** — A place for adventurers to accept quests, find parties, and grade themselves for a dungeon permit. Also the main office for [[The Guild of Aldebrand#The Sephiroth|The Sephiroth]], [[The Guild of Aldebrand#Search and Expedition Associates|S.E.A]], and [[The Guild of Aldebrand#B.C. Scientia|B.C. Scientia]].
 	- **Record Hall** — Library of maps, expeditions, minerals, and history.
 	- **Ye Olde Modicus** — A small inn ran by an old couple. Place to chat, eat, and rest.
 	- **Sylvetra’s** — A place for buying and selling weapons and armors, decorated with many hand-crafted masterpieces. They are a bit pricy, but those come with profession and qualities. Also able to upgrade, enhance, and imbue the weapon with magic.
 	- **Sugarspruce** — Anything that is magic-in-a-flask is sold here, from rejuvenating potions to the deadliest poison. The shop is neatly kept but looks quite shady. However, everything that is sold here is 100% legit.
-	- **Weavers’ Agora** — Local marketplace ran by [[Factions#The Roadweavers|The Roadweavers]]. Sells mostly general stuffs; rations, adventuring tools, accessories, clothing, etc. It is located on the coast with nice view of the ocean. There are also shipping ports located on the perimeters where you can trade with travelling merchants directly. The place bustling with activities all day with occasional night markets.
+	- **Weavers’ Agora** — Local marketplace ran by [[The Guild of Aldebrand#The Roadweavers|The Roadweavers]]. Sells mostly general stuffs; rations, adventuring tools, accessories, clothing, etc. It is located on the coast with nice view of the ocean. There are also shipping ports located on the perimeters where you can trade with travelling merchants directly. The place bustling with activities all day with occasional night markets.
 		- **The Roadweavers’ Office** — The main office of The Roadweavers, located inside the market. Merchants relax, chat, and negotiate here.
 	- Church of
 	- Orphanage
@@ -31,16 +27,16 @@ The town is visited by various people, aspiring adventurers seeking new dungeons
 
 # Factions
 
-> **Main page**:
-> [[Factions]]
+> **See also**:
+> [[Factions/|Factions]]
 
-- **[[Factions#The Guild of Aldebrand|The Guild of Aldebrand]]** — Responsible for assisting and grading adventurers, issuing permits for deep explorations and extractions, town keeping, and managing town requests.
+- **[[The Guild of Aldebrand]]** — Responsible for assisting and grading adventurers, issuing permits for deep explorations and extractions, town keeping, and managing town requests.
 	- **The Sephiroth** — An academia that indexes every known information about Qliphoth; monsters, minerals, expedition histories, and various guild records. The Record Hall holds most of their archives and books. However, due to expedition fatigue and recent hurdles, the members have become lazy.
 	- **Search and Expedition Associates (S.E.A.)** — A guild dedicated to map every single floor of the dungeon. Currently finding a way to break through the roadblock to the deeper layers of Qliphoth.
 	- **B.C. Scientia** — A dedicated group of researchers studying the minerals and monster samples from Qliphoth. They are also trying to come up with a theory of how Qliphoth comes to be.
 	- **The Roadweavers** — A merchant collective trading group responsible for Aletav’s imports and exports; goods, processed ores, weapons, armors, and mercenaries. Also runs the Weavers’ Agora.
-- **[[Factions#Prime Centauri|Prime Centauri]]** — After discovering rare minerals in the early floors of the dungeon, a group of investors saw an opportunity for business and set out to extract and refine them as much as possible. They are a separate group outside the power of Aldebrand. Occasionally has conflicts with the guild on how they operate.
-- **[[Factions#The Delvers|The Delvers]]** — An outlaw group that has a single mission: to discover the bottom of Qliphoth no matter what.
+- **[[Prime Centauri]]** — After discovering rare minerals in the early floors of the dungeon, a group of investors saw an opportunity for business and set out to extract and refine them as much as possible. They are a separate group outside the power of Aldebrand. Occasionally has conflicts with the guild on how they operate.
+- **[[The Delvers]]** — An outlaw group that has a single mission: to discover the bottom of Qliphoth no matter what.
 
 ---
 

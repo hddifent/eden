@@ -1,0 +1,3 @@
+---
+title: "Qliphoth: Locations"
+---
