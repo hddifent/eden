@@ -1,8 +1,11 @@
-A group of outsiders that sees the potential investments that can be made from “everything” found inside [[Qliphoth (Dungeon)|Qliphoth]]. Together, they form an extraction operation force called Prime Centauri, funded and owned privately. They operate separately from [[The Guild of Aldebrand]], technically not above them. They sure act like the one in charge, though. With the power of capitalism and massive wealth on their side, they’re unstoppable.
+---
+title: Prime Centauri
+---
+A group of outsiders that sees the potential investments that can be made from “everything” found inside [[qliphoth|Qliphoth]]. Together, they form an extraction operation force called Prime Centauri, funded and owned privately. They operate separately from [[aldebrand|The Guild of Aldebrand]], technically not above them. They sure act like the one in charge, though. With the power of capitalism and massive wealth on their side, they’re unstoppable.
 
 ## Divisions
 
-The operation is ruled by The **Aurum** Committees, a board of influential executives who rarely sets foot in [[Aletav]] themselves. Some employees don’t even know their identities. Beneath them are the four core divisions: **Natrium**, **Kalium**, **Argentum**, and **Hydragyrum**.
+The operation is ruled by The **Aurum** Committees, a board of influential executives who rarely sets foot in [[aletav|Aletav]] themselves. Some employees don’t even know their identities. Beneath them are the four core divisions: **Natrium**, **Kalium**, **Argentum**, and **Hydragyrum**.
 
 - The **Natrium** division handles the labor works; mining, extracting, refining, and logistics falls into their work scope. The lowest of the bunch in **Aurum**’s eyes, being seen as replaceable and a necessary sacrifice for a “greater good”.
 - The **Kalium** division is Prime Centauri’s internal research team. They mainly focus on mining and extraction technologies. There also exists some side projects on Qliphoth exploration, aiming to understand and harness the source of all minerals. Lately though, a new secret project on Cavus was created that some members of the division don’t even know about. Information are highly confidential.
@@ -21,6 +24,6 @@ In the end, to avoid public scrutiny, a mutual agreement was made between the tw
 
 ### Raid on Swarm #4761
 
-The raid is a coordinated attack believed to have been organized [[The Delvers]]. Although, there are no direct proof or concrete evidence. The logistic drones have been shot down by an unknown source, hitting most of the cargos. The lost values are estimated to be about 100,000 gold pieces. The crash site shows no wreckages nor anything deemed salvageable.
+The raid is a coordinated attack believed to have been organized [[the-delvers|The Delvers]]. Although, there are no direct proof or concrete evidence. The logistic drones have been shot down by an unknown source, hitting most of the cargos. The lost values are estimated to be about 100,000 gold pieces. The crash site shows no wreckages nor anything deemed salvageable.
 
 The story was covered as drone malfunction, and their reputation took a huge blow in the public perception. The investigation is still ongoing quietly and secretly by **Hydragyrum** division.

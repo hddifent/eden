@@ -1,3 +1,6 @@
+---
+title: Mazal, the Demigoddess of Fortune
+---
 > In search of unattainable wealth, she sacrifices her mortality for the thing she can no longer enjoy.
 
 Mazal is believed to have been born a tiefling in a dirt-poor family. Her life was never meant to be, she’s but an accident from their parents’ stress. Traces of history lead to a theory that she was born the youngest sibling with two brothers and five sisters, three were already dead before her birth. Shortly after, her mother would pass. She was never raised by her father, and neither do her other siblings. He doesn’t have the resources, and any that would come his way is spent on short-term bliss. Instead, they were to fend themselves and learn how the world around them worked before there aren’t any worlds to be around.

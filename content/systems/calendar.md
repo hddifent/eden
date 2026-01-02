@@ -1,12 +1,15 @@
+---
+title: Calendar System
+---
 > Homebrew calendar system used all across Eden.
 
-# The Hours of the Day
+## The Hours of the Day
 
 Each day is divided into 24 hours, beginning at midnight. In large cities, the town hall signals the passing of time, striking once for each hour. A great drum is used from midnight to noon, while a bell is used from noon until midnight.
 
 The hours are counted from one to twelve after both midnight and noon, with the twelfth hour marking both midnight and midday. The hours are spoken according to their signal. For example, “the Third drum” or “the Fifth bell”.
 
-# A Calendar Year of Eden
+## A Calendar Year of Eden
 
 A year, also known as _Eden Cycle (EC)_, is separated into 12 months, each month has 4 weeks, each week has 7 days. The days of a week are Solus, Emporus, Fortunus, Traquilus, Marsus, Elpidus, and Victus. Most, if not all businesses, are closed on Victus and Solus. Some businesses and establishments may close on Traquilus which is considered an unofficial rest day.
 

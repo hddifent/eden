@@ -1,4 +1,7 @@
-The main regulators around [[Aletav]] and the exploration of [[Qliphoth (Dungeon)|Qliphoth]]. Adventurers must sign up to this guild in order to start exploring the dungeon.
+---
+title: The Guild of Aldebrand
+---
+The main regulators around [[aletav|Aletav]] and the exploration of [[qliphoth|Qliphoth]]. Adventurers must sign up to this guild in order to start exploring the dungeon.
 
 ## Departments
 
@@ -62,7 +65,7 @@ Some notable projects that B.C. Scientia has involvements in includes:
 	
 - _Arcane Properties of Cavus — (Concluded, commissioned by **Tiphareth** team)_
 	
-	> Cavus in one of the most common mineral found in Qliphoth, usually fragile, inert, and has little to no value. However, after a major incident on the 4th floor of Qliphoth involving extractors from Prime Centauri, a research was commissioned. The extractors had found samples of Cavus infused with necrotic magic. After months of research, it is concluded that Cavus can be infused with arcane magic if stimulated, which make them unstable. However, researchers are unable to recreate necrotic-infused Cavus in labs. Further internal researches are currently ongoing.
+	> Cavus in one of the most common mineral found in Qliphoth, usually fragile, inert, and has little to no value. However, after a major incident on the 4th floor of Qliphoth involving extractors from [[prime-centauri|Prime Centauri]], a research was commissioned. The extractors had found samples of Cavus infused with necrotic magic. After months of research, it is concluded that Cavus can be infused with arcane magic if stimulated, which make them unstable. However, researchers are unable to recreate necrotic-infused Cavus in labs. Further internal researches are currently ongoing.
 	
 - _Material and Elemental Imbuement — (Ongoing, internal)_
 	

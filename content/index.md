@@ -4,13 +4,13 @@ description: Some things are meant to be left undiscovered…
 ---
 > Some things are meant to be left undiscovered…
 
-# Start Exploring
+## Start Exploring
 
-- Start by exploring Eden's [[Point of Interests/|point of interests]].
-- What the people of Eden [[Beliefs/|believe]] in.
-- How the [[Systems/|systems]] in Eden work.
+- Start by exploring Eden's [[poi/|point of interests]].
+- What the people of Eden [[beliefs/|believe]] in.
+- The [[systems/|systems]] in the world of Eden.
 
-# Developments
+## Developments
 
 The world of Eden is constantly changing, as well as the wiki. Please expect a lot of changes and rearrangement as the [creator](https://github.com/hddifent) simply cannot make up his mind. To ensure the latest site update, (on PC) press `CTRL + F5` to clear page caches.
 

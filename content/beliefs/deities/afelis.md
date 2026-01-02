@@ -1,3 +1,6 @@
+---
+title: Afelis, the Child of Nature
+---
 > He who is ignorant in search to end **HER** suffering.
 
 <span style="color:#FCF2BD;">“Tell me, my child. What is it that made you cry?”</span>
