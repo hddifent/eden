@@ -11,7 +11,7 @@ The town is visited by various people, aspiring adventurers seeking new dungeons
 
 ## Landmarks
 
-- **[[qliphoth|Qliphoth]]** — The “endless” dungeon, theorized to emerged from the core of Eden.
+- **[[qliphoth|Qliphoth]]** — The "endless" dungeon, theorized to emerged from the core of Eden.
 - **Aletav** — The town built around the perimeter of Qliphoth. Mostly occupied by humans, elves, and halflings.
 	- **[[aldebrand|The Guild of Aldebrand]]’s HQ** — A place for adventurers to accept quests, find parties, and grade themselves for a dungeon permit. Also the main office for [[aldebrand#The Sephiroth|The Sephiroth]], [[aldebrand#Search and Expedition Associates|S.E.A]], and [[aldebrand#B.C. Scientia|B.C. Scientia]].
 	- **Record Hall** — Library of maps, expeditions, minerals, and history.
@@ -37,7 +37,7 @@ The town is visited by various people, aspiring adventurers seeking new dungeons
 
 ## Non-Player Characters
 
-> **Main page**: [[npcs|Non-Player Characters]]
+> **Main page**: [[poi/qliphoth/npcs|Non-Player Characters]]
 
 - **Maeva (F, High Elf, 264)** — A guild receptionist at Aldebrand’s HQ. Appears to be kind-hearted and patient. However, some adventurers’ arrogance, ego, and sheer stupidity do hit her nerves. She never shows her frustrations during work or when anyone asks about it. But, she secretly wishes to get another job.
 - **Erfan (M, Half-Elf, 21)** — A librarian and a record keeper at the Record Hall. Seemingly the only person who takes his job seriously… Too seriously. Has unnerving memories. He remembers where all the records are kept and can even recite parts of the archive word for word.

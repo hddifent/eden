@@ -59,7 +59,7 @@ Some notable projects that B.C. Scientia has involvements in includes:
 	
 	> One of the first projects since the founding of the guild. The research concluded that the creatures found in Qliphoth has similar biological structures to that of the living. However, the cells cannot regenerate. They also don’t require energy to sustain themselves.
 	
-- _Psychologies of “The Lost” — (Abandoned, internal)_
+- _Psychologies of "The Lost" — (Abandoned, internal)_
 	
 	> After the discovery of new intellectual species inside Qliphoth, a team is formed to study their behaviors. However, after multiple incidents of researchers’ psychological changes, the project was quietly shut down. The report was never publicized.
 	

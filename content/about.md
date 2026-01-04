@@ -31,7 +31,7 @@ I do not consider myself to be a good writer. This place is more like a training
 
 ## About me
 
-Oh, so you're curious about me. My name is Preuk R., a computer science student with pastimes including but not limited to...
+Oh, so you're curious about me. My name is Preuk R. Online, I usually go by the name *"hddmtm"* or *"hddifent"*. I'm a computer science student with pastimes including but not limited to...
 
 - Playing D&D (once) (as a "Forever DM")
 - Investing too much time on video games.

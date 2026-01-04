@@ -1,4 +1,4 @@
 ---
 title: Non-Player Characters
 ---
-_To be written..._
+> Many faces, many stories...

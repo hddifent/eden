@@ -7,7 +7,7 @@ title: Calendar System
 
 Each day is divided into 24 hours, beginning at midnight. In large cities, the town hall signals the passing of time, striking once for each hour. A great drum is used from midnight to noon, while a bell is used from noon until midnight.
 
-The hours are counted from one to twelve after both midnight and noon, with the twelfth hour marking both midnight and midday. The hours are spoken according to their signal. For example, “the Third drum” or “the Fifth bell”.
+The hours are counted from one to twelve after both midnight and noon, with the twelfth hour marking both midnight and midday. The hours are spoken according to their signal. For example, "the Third drum" or "the Fifth bell".
 
 ## A Calendar Year of Eden
 

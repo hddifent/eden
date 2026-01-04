@@ -18,4 +18,4 @@ This wiki was created using [Quartz 4.5.2](https://quartz.jzhao.xyz/). Without t
 
 Check out the [[about]] page to learn more about Eden itself.
 
-~~This wiki also has a [Notion](https://hddmtm-dnd.notion.site/1be318388a888019b571e438911b4927?v=221318388a88805a9b5f000cdee7507c) counterpart which is run in parallel. This wiki will typically be updated after Notion as I intend to use this as the "formal" form. So, to see live updates and page status tracker, please refer to it instead.~~ Not for long... Blog post incoming.
+About the state of the [Notion](https://hddmtm-dnd.notion.site/1be318388a888019b571e438911b4927?v=221318388a88805a9b5f000cdee7507c) counterpart, refer to [[20260105-notion|this blog post]].

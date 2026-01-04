@@ -39,6 +39,15 @@ const defaultOptions: Options = {
       else if ((b.displayName.toLowerCase().includes("overview"))) {
         return 1
       }
+
+      // Make it that folders named "Blogs" always display last.
+      if ((a.displayName.toLowerCase().includes("blogs"))) {
+        return 1
+      }
+      else if ((b.displayName.toLowerCase().includes("blogs"))) {
+        return -1
+      }
+
       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
       // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
       return a.displayName.localeCompare(b.displayName, undefined, {
